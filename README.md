@@ -1,8 +1,8 @@
 Monitoramento de Temperatura e Umidade IoT com ESP32
 
-Este projeto apresenta uma solução IoT integrada para monitoramento de temperatura e umidade em tempo real, utilizando o ESP32 como microcontrolador central. Através do sensor DHT22, os dados ambientais são coletados e transmitidos via protocolo MQTT a um servidor MQTT público. Utilizamos o Node-RED como interface de gateway para processar esses dados e o Node-RED Dashboard para visualização em tempo real, criando uma interface gráfica intuitiva e acessível pelo navegador.
+Este projeto apresenta uma solução IoT integrada para monitoramento de temperatura e umidade em tempo real, utilizando o ESP32 como microcontrolador central. Através do sensor DHT22. Utilizamos o Node-RED como interface de gateway para processar esses dados e o Node-RED Dashboard para visualização em tempo real, criando uma interface gráfica intuitiva e acessível pelo navegador.
 
-A solução é ideal para ambientes que requerem monitoramento climático constante, como estufas, armazéns, ou até residências inteligentes. Com a implementação de um sistema de alertas, é possível notificar os usuários sobre condições anormais, possibilitando ações rápidas e preventivas.
+A solução é ideal para climatizacao do ambiente em clinicas de reabilitacao onde eh de extrema importancia para o paciente se recuperar.
 
 Monitoramento de Temperatura e Umidade IoT
 Descrição
