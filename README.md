@@ -27,8 +27,6 @@ Configure o nó MQTT para se conectar ao seu broker MQTT.
 Ajuste os tópicos MQTT nos nós de acordo com o que está definido no código do ESP32.
 
 
-https://github.com/TarCouto/Gs_iot
-
 video: https://www.youtube.com/watch?v=AHrlINbLDmM&ab_channel=TarcisioCouto
 
 wokwi: https://wokwi.com/projects/382291270248629249
